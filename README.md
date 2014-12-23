@@ -9,6 +9,8 @@ It even has fuzzy search capabilities, so you can for example do this:
 
 ![screenshot](screenshots/screenshot2.png)
 
+It shows you hints even if your cursor is in the middle of a valid variable name. It now checks that @ should be at start of line or that the character before @ belongs the list of beforeStartCharaters(indicating start of a new statement/variable) like space, tab, colon, semi-colon, comma, brackets etc
+
 ##How to use
 
 1. Open a *LESS* file
