@@ -9,7 +9,7 @@ It even has fuzzy search capabilities, so you can for example do this:
 
 ![screenshot](screenshots/screenshot2.png)
 
-It shows you hints even if your cursor is in the middle of a valid variable name. It now checks that @ should be at start of line or that the character before @ belongs the list of beforeStartCharaters(indicating start of a new statement/variable) like space, tab, colon, semi-colon, comma, brackets etc
+It shows you hints even if your cursor is in the middle of a valid variable name. It now checks that @ should be at start of line or that the character before @ belongs the list of beforeStartCharacters(indicating start of a new statement/variable) like space, tab, colon, semi-colon, comma, brackets etc
 
 ##How to use
 
@@ -23,7 +23,7 @@ There are three possible ways:
 
 1. Install the extension via the Extension Manager in Brackets: ```File -> Extension Manager -> search for 'LESShints'```
 2. Copy the url of this repository and paste it into ```File -> Extension Manager -> Install from URL```
-3. [Download the code](https://github.com/konstantinkobs/brackets-LESShints/archive/master.zip) and extract it to the Extensions Folder: ```Help -> Show Extension Folder -> user```
+3. [Download the code](https://github.com/AbhijitJha/brackets-LESShints/archive/master.zip) and extract it to the Extensions Folder: ```Help -> Show Extension Folder -> user```
 
 ##The MIT License (MIT)
 
